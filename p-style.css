@@ -1,0 +1,36 @@
+body {
+    background: black;
+}
+
+.navbar {
+    padding: 20px;
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: black;
+}
+
+
+a {
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+}
+
+/* .row {
+    padding-top: 30px;
+    height: 500px;
+    background-image: url("Assets/Ubud.png")
+} */
+
+.card {
+    text-align: center;
+    background-color: lightskyblue;
+}
+
+.footer {
+    padding-top: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+}

@@ -1,0 +1,45 @@
+body {
+    background: black;
+}
+
+.navbar {
+    padding: 20px;
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: black;
+}
+
+a {
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.hero {
+    color: black;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    height: 600px;
+    background-image: url("Assets/Ubud.png")
+}
+
+.about {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.bio {
+    color: black;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    height: 600px;
+}
+.section {
+    height: 200px;
+}
+
+.footer {
+    text-align: center;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+}
